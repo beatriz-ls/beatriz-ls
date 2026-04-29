@@ -1,7 +1,7 @@
 ## 👋 Hi! My name is Beatriz
 
 - 🎓 Currently getting a master's in Statistics at the **Universidade Federal de Minas Gerais**
-- 🎓 Statistian graduated at the **Universidade Federal do Espírito Santo**  
+- 🎓  Statistician with a degree from the **Universidade Federal do Espírito Santo**
 - 👶 Member of the [Observatório Obstétrico Brasileiro](https://github.com/observatorioobstetrico), developed by [Daslab](https://daslab-ufes.github.io/)  
 - 💜 Co-organizer of [R-Ladies Vitória](https://github.com/R-Ladies-Vitoria)  
 - 📅 Part of the organizing committee of the [69th RBras & 21st SEAGRO](https://69rbras21seagro.com.br/)  
